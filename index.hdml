@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head><meta charset="UTF-8"><title>Accueil - Entreprise</title></head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Accueil</a> | <a href="about.html">À propos</a> | <a href="services.html">Services</a> | <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <section>
+        <h1>Bienvenue chez [Nom de l'entreprise]</h1>
+        <p>L'excellence au service de vos besoins.</p>
+    </section>
+</body>
+</html>
